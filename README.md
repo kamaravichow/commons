@@ -1,5 +1,5 @@
 # Commons
-[![](https://jitpack.io/v/kamaravichow/commons.svg)](https://jitpack.io/#kamaravichow/commons)
+![Android CI](https://github.com/kamaravichow/commons/workflows/Android%20CI/badge.svg) [![](https://jitpack.io/v/kamaravichow/commons.svg)](https://jitpack.io/#kamaravichow/commons) 
 
 ## Integration 
 
